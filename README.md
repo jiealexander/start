@@ -1,1 +1,1 @@
-react16 with redux starting page 
+react16 redux starting page 
